@@ -1,0 +1,2 @@
+echo "dep.out" > .gitignore
+echo "*.out" >> .gitignore
